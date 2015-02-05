@@ -1,2 +1,2 @@
-# CS389Spring2015
+# cs389spring2015
 Software Engineering
